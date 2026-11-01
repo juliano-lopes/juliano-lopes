@@ -46,7 +46,7 @@
 ### 2. Engenharia Mobile (Kotlin / Jetpack Compose) e Tecnologia Assistiva (Python)
 
 - **[Accessibility Engineering in Jetpack Compose (`accessibility-engineering-in-jetpack-compose`)](https://github.com/juliano-lopes/accessibility-engineering-in-jetpack-compose)**  
-  Artefato de engenharia de software e pesquisa científica desenvolvido em **Kotlin** e **Jetpack Compose** (API 34+). Implementa testes instrumentados para inspeção de árvores semânticas no Android (`A11yTreeLogTest.kt`) e fluxos experimentais comparativos para remoção de barreiras semânticas na navegação com o leitor de telas **TalkBack**.
+  Artigo técnico e Trabalho de Conclusão de Curso (TCC) da Pós-graduação em Desenvolvimento Web e Mobile (**IF Sudeste MG**), desenvolvido em **Kotlin** e **Jetpack Compose** (API 34+). Implementa testes instrumentados para inspeção da árvore semântica do Android (`A11yTreeLogTest.kt`) e fluxos experimentais comparativos para remoção de barreiras semânticas na navegação com o leitor de telas **TalkBack**.
 
 - **[Virtual Notes for NVDA (`virtual-notes-for-NVDA`)](https://github.com/juliano-lopes/virtual-notes-for-NVDA)**  
   Complemento (*add-on*) oficial em **Python** para o leitor de telas **NVDA**, voltado à produtividade com notas virtuais persistentes de texto e de voz. Conta com arquitetura de plugins globais, persistência em disco, internacionalização (`gettext` em inglês e português), automação de build com **SCons** e controle de lançamentos com *Conventional Commits* e versionamento semântico (`v1.0.0` a `v1.5.0`).
