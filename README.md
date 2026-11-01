@@ -1,8 +1,9 @@
 # Juliano Lopes
 
 **Engenheiro de Software, Especialista em Acessibilidade Digital e Tecnologia Assistiva**  
- Certificado internacionalmente como **Web Accessibility Specialist (WAS — IAAP)** e **NVDA Certified Expert (NV Access)**  
- Pós-graduado em **Desenvolvimento de Aplicações Web e Mobile** (IF Sudeste MG)
+- Certificado internacionalmente como **Web Accessibility Specialist (WAS — IAAP)** e **NVDA Certified Expert (NV Access)**  
+- Pós-graduado em **Engenharia de Software (PUC)**  
+- Pós-graduado em **Desenvolvimento de Aplicações Web e Mobile (IF Sudeste MG)**
 
 ---
 
@@ -22,7 +23,7 @@
 - **Desenvolvimento Mobile (Nativo e Multiplataforma):** Android Nativo com **Kotlin** e **Jetpack Compose**, Java para Android, React Native e Expo.
 - **Desenvolvimento Front-End e Full-Stack Web:** TypeScript, JavaScript (ES6+), React, Next.js, Angular, Node.js, HTML5 Semântico, CSS3 e WAI-ARIA.
 - **Engenharia de Acessibilidade e Qualidade de Software:** Arquitetura de interfaces acessíveis (WCAG 2.1 / 2.2), inspeção de árvore semântica no Android (TalkBack), desenvolvimento de complementos (add-ons) em Python para o leitor de telas NVDA, testes automatizados (Testes Instrumentados no Android, Pytest/Unittest, Karma/Jasmine e Cypress).
-- **DevOps, Arquitetura e Versionamento:** Docker, Docker Compose, Firebase (Cloud Functions, Firestore, Hosting), Git, GitHub e Git LFS.
+- **DevOps, Arquitetura e Versionamento:** Docker, Docker Compose, Firebase, Git, GitHub e Git LFS.
 
 ---
 
@@ -66,5 +67,5 @@
 - **[Catálogo Interativo de Acessibilidade Android em React + TypeScript (`frontend-pos-web-mobile-react-t2`)](https://github.com/juliano-lopes/frontend-pos-web-mobile-react-t2)**  
   Aplicação front-end modular em **React 19**, **TypeScript**, **Vite** e **Bootstrap**, que implementa o catálogo interativo de componentes do trabalho de conclusão *"Guia Prático para o Desenvolvimento de Aplicações Android Acessíveis com Kotlin"*.
 
-- **[GameCodeApp — Plataforma de Exercícios com Angular e Firebase (`game-code`)](https://github.com/juliano-lopes/game-code)**  
-  Aplicação web desenvolvida em **Angular 19** e **TypeScript**, integrada ao **Firebase** (Authentication, Firestore com regras de segurança customizadas, App Hosting e **Cloud Functions** serverless em TypeScript) e testes unitários com Karma/Jasmine.
+- **[RequisicaoApp — Aplicação Web com Angular e Firebase (`angular-app`)](https://github.com/juliano-lopes/angular-app)**  
+  Aplicação front-end arquitetada em **Angular 19** e **TypeScript**, estruturada com serviços, DTOs, DataSources, Dashboard e integração com **Firebase**.
